@@ -14,4 +14,4 @@
 -- local secondFunction = loadstring(game:HttpGet('https://raw.githubusercontent.com/Petscriptexploit/themes/refs/heads/main/g'))()
 -- secondFunction()  -- Executes after the delay
 -- loadstring(game:HttpGet('https://raw.githubusercontent.com/Petscriptexploit/themes/refs/heads/main/g'))()
-loadstring(game:HttpGet("https://pastefy.app/W9obiG1w/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/qnZPTDbQ/raw"))()
